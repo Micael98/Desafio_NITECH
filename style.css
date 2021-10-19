@@ -24,3 +24,20 @@ footer{
     font-size: italic;
 
 }
+
+#btn{
+    background-color: #7FFFD4;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;   
+    text-align: center;
+    font: normal 15pt Arial;
+    user-select: none;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.192);
+}
+
+#btn:hover{
+    background-color: #26f8b2;
+
+}
