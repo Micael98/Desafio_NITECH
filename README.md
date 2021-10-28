@@ -39,7 +39,7 @@ Exemplo de teste onde foi colocado o código 11 e a quantidade de 40 produtos:
 
 ![Projeto Nitech2](https://user-images.githubusercontent.com/92325360/139163269-cbd885e4-b019-4604-a07c-5140cbad0cbc.JPG)
 
-o codigo então retornará a nota fiscal informando o valor unitário, valor sem o desconto, desconto do produto e o valor total do produto com o desconto aplicado.
+o código então retornará a nota fiscal informando o valor unitário, valor sem o desconto, desconto do produto e o valor total do produto com o desconto aplicado.
 
 obs: se o usuário não informar o código do produto e a quantidade o sistema irá retornar um 'valor incorreto':
 
