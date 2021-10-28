@@ -1,6 +1,6 @@
 # Desafio NITECH!
 
-Neste projeto desenvolvi um sistema que fizesse o cálculo de itens a serem comprados, o sistema recebera o código do produto a ser comprado e a quantidade comprada do produto, fará o cálculo e exibira os seguintes itens:
+Neste projeto desenvolvi um sistema que fizesse o cálculo de itens a serem comprados, o sistema receberá o código do produto a ser comprado e a quantidade comprada do produto, fará o cálculo e exibira os seguintes itens:
 
 -Preço Unitário do produto;
 
