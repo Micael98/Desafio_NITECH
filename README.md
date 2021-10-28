@@ -35,7 +35,7 @@ O software pode ser baixado pelo link: https://code.visualstudio.com/
 
 ## ⚙️ Executando os testes
 
-Exemplo de teste onde foi colocado o código 11 e a quantidade de 40 produtos:
+Exemplo de teste onde foi colocado o código 11 e a quantidade de 30 produtos:
 
 ![Projeto Nitech2](https://user-images.githubusercontent.com/92325360/139163269-cbd885e4-b019-4604-a07c-5140cbad0cbc.JPG)
 
